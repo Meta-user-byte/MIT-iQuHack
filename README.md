@@ -2,7 +2,8 @@
 
 Team name: HackQubits
 Team members: Yaswanth Balaji ep22btech11007@iith.ac.in
-, Ankit Sharma ankitphysics5327@rajdhani.du.ac.in  , Rishikesh Gokhale, Soham pawar, Dhawal
+, Ankit Sharma ankitphysics5327@rajdhani.du.ac.in  , Rishikesh Gokhale rishihg@gmail.com
+, Soham pawar, Dhawal
 
 # A Scalable Implementation of Shor's Algorithm on the Quantum Rings Simulator
 
